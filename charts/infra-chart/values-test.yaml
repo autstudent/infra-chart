@@ -34,7 +34,7 @@ namespaces:
       enabled: true
 
 networking:
-  allow:
+  allow-pre-dev:
     orig: jump-app-dev
     dest: jump-app-pre
 
